@@ -1,0 +1,2 @@
+# GeneratorSqlMapCustomer
+MyBatis逆向工程,自动生成POJO和mapper接口与对应xml文件
